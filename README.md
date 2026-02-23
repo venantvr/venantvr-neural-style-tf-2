@@ -4,10 +4,7 @@ Neural style transfer experiments using TensorFlow, implemented as Jupyter noteb
 
 ## Stack
 
-- Python
-- TensorFlow
-- Jupyter Notebook
-
+[![Stack](https://skillicons.dev/icons?i=py,tensorflow&theme=dark)](https://skillicons.dev)
 ## Structure
 
 - `neural_style_tf.ipynb` -- Main notebook implementing neural style transfer
